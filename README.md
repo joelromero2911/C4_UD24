@@ -16,7 +16,8 @@
     {
         "nombre": "Joel",
         "trabajo": "informatico",
-    }<br>
+    }
+<br>
 [POST] /api/trabajadores<br>
 
 4) Shows the worker with the specified id.<br>
