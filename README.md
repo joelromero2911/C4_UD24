@@ -9,7 +9,6 @@
   Available jobs:
     - informatico
     - politico
-    <br>
 [GET] /api/trabajadores/trabajo/{trabajo}<br>
 
 3) Saves on the DB the worker that you specify in the requested body always that its with correct parameters.<br>
